@@ -1,2 +1,2 @@
-(import inputs.nix)
+(import ./inputs.nix)
 (import ./npm/default.nix)
