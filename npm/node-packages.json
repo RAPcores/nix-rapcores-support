@@ -1,0 +1,5 @@
+[
+  "netlistsvg",
+  "wavedrom-cli",
+  {"jsteros": "git://github.com/TerosTechnology/colibri.git"}
+]
