@@ -1,1 +1,1 @@
-(import npm/default.nix);
+(import ./npm/default.nix)
